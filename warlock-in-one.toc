@@ -1,0 +1,7 @@
+## Interface: 20506
+## Title: Warlock-In-One
+## Notes: A Warlock QoL addon
+## Author: Altix
+## Version: 0.0.1
+
+warlock-in-one.lua
